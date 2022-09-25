@@ -276,7 +276,12 @@ body {
     box-shadow: 0 0 14px #009687a8;
 }
 
-
+#edyoda-projects-logo {
+    width: 128px;
+    position: fixed;
+    bottom: 50px;
+    right: 50px;
+}
 /* ------------------------------------------------------------------------------------------------------------------ */
 
 #order-placed-section {
